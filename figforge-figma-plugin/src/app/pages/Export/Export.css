@@ -1,0 +1,49 @@
+.export-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top:100px
+}
+
+.loading-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.heading {
+    color: #000;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.redirect-btn {
+    padding: 15px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    border-radius: 10px;
+}
+
+.back-btn {
+    padding: 15px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+    border-radius: 10px;
+}
+
+.btn-container{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}

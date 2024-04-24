@@ -1,0 +1,2 @@
+check how long is the access token valid for and if it is permanent, 
+then store it in the database with the user id so no need to ask github everytime

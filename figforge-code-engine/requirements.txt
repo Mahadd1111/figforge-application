@@ -1,0 +1,8 @@
+django==5.0.0
+djangorestframework==3.14.0
+supabase==2.2.1
+python-dotenv==1.0.0
+treelib==1.7.0
+matplotlib==3.8.2
+beautifulsoup4==4.12.2
+django_cors_headers==4.3.1

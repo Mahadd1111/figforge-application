@@ -1,0 +1,214 @@
+[33mcommit 678bf522ed1e151f184eb31e5d1202e82efb7820[m[33m ([m[1;36mHEAD -> [m[1;32mhtml-css-conversion[m[33m, [m[1;31morigin/html-css-conversion[m[33m)[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Mon Nov 27 18:57:59 2023 +0500
+
+    Getting CSS Successfully
+
+[33mcommit f13df5178a5d278a2fce46fc964d90cad5d1189f[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Thu Nov 16 14:55:08 2023 +0500
+
+    Fixed a certain error
+
+[33mcommit 50629e124aed04d788b457a894f3bcb85fd8c08a[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Thu Nov 16 00:38:20 2023 +0500
+
+    FrameNode Data complete
+
+[33mcommit 49f4edbe2410ce6c80428fdd0836adf21f41d262[m[33m ([m[1;32msupabase-key-auth[m[33m)[m
+Merge: 3885f26 e99f407
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Nov 15 20:35:45 2023 +0500
+
+    fixed merge conflicts
+
+[33mcommit 3885f2648dcab5b5ca695209d9e88a92b1282144[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Nov 15 20:19:28 2023 +0500
+
+    Till Mid Evaluation
+
+[33mcommit e99f4076de6b49a04c54d9ecdbde9c729dc1916d[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Thu Nov 9 15:17:36 2023 +0500
+
+    Supabase Authorized. Key verification is now functional
+
+[33mcommit b069ed0d67738fd8952692d0d4bfa117240773ba[m
+Merge: e12a482 fb9bacf
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Fri Oct 20 02:27:08 2023 +0500
+
+    Removed RPC and pulled
+
+[33mcommit e12a482e0333a219f8b1d118291f684e4a12dfeb[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Fri Oct 20 02:14:06 2023 +0500
+
+    RPC not working
+
+[33mcommit fb9bacf34a297cd5f515ff0a19185941235fa85f[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Fri Oct 20 01:36:56 2023 +0500
+
+    Added Pages UI
+
+[33mcommit 9edc47b05fb6cbf05912acace7875a298125a134[m
+Merge: 10a28eb cf21208
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Fri Oct 20 00:48:22 2023 +0500
+
+    trying to get supabase api to connect
+
+[33mcommit 10a28eb855d77d9ca1e806e2740fa7294059d568[m[33m ([m[1;31morigin/designdata[m[33m)[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Thu Oct 19 23:54:05 2023 +0500
+
+    Added supabase call functions
+
+[33mcommit cf2120840fefdc864ec2a05bb8aa2664e71b381b[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Thu Oct 19 21:07:01 2023 +0500
+
+    Update Login.tsx
+
+[33mcommit 38bb1b10caae582b575eca6339e85f0568827a26[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Thu Oct 19 09:39:33 2023 +0500
+
+    Created User Context, supabase setup and login verification code
+
+[33mcommit 3bf8197c9ddb774f771f569c8cf539d4ab35b267[m
+Merge: 08b2b27 5e73f32
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Thu Oct 19 09:37:25 2023 +0500
+
+    Merge branch 'dev' of https://github.com/muhammadmunaf/FigForge-Plugin-React into dev
+
+[33mcommit 5e73f32c926e39bc99bf2ea097cbc5c4636ae3fb[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Thu Oct 19 09:33:21 2023 +0500
+
+    Guidelines and responsiveness working
+
+[33mcommit 08b2b27298b7b2fa59b032ca98fe1444e219b75b[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Thu Oct 19 08:23:52 2023 +0500
+
+    fixed warnings
+
+[33mcommit 6e54c457ddbe4ea5cf0332f760f0a3068496d09d[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Thu Oct 19 03:13:47 2023 +0500
+
+    Made many changes to Editor half complete
+
+[33mcommit f36892a18dc548e0d9cf6b757f101a4e5b81fcb3[m
+Merge: a49753f cf5691a
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 23:35:09 2023 +0500
+
+    Pulled Munaf
+
+[33mcommit a49753f394774421cc847f566d7b83df123ea95e[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 23:32:24 2023 +0500
+
+    Figma not found
+
+[33mcommit cf5691a277f4c73a315c8205784b0ffd29b6dd10[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Wed Oct 18 23:30:34 2023 +0500
+
+    Small fixes and added basic figma api stuff
+
+[33mcommit 6478eb65c462f2e420a10e79a354d517229b97ef[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 22:04:00 2023 +0500
+
+    mm
+
+[33mcommit 548c8e707feb2a29df07363829935bec6aebe6fa[m
+Merge: 2170e67 924a313
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 22:03:24 2023 +0500
+
+    Merge branch 'dev' of github.com:muhammadmunaf/FigForge-Plugin-React into dev
+
+[33mcommit 2170e670a1e743cd1a242ecccc9f3e4b420eb694[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 22:00:21 2023 +0500
+
+    added style loader library
+
+[33mcommit 924a31370eefb7afd2bd6f01992c12febf4b6ab5[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Wed Oct 18 21:58:52 2023 +0500
+
+    Minor fixes
+
+[33mcommit c91d3a07650a6254b1c7f468b101d823ad9adadb[m
+Merge: 61acff6 6b118e2
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 21:47:14 2023 +0500
+
+    Merge branch 'dev' of github.com:muhammadmunaf/FigForge-Plugin-React into dev
+
+[33mcommit 6b118e2bc8597347544e68dd8a4f0c2c423e15b0[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Wed Oct 18 21:42:30 2023 +0500
+
+    Routing Fixed
+    
+    Had to declare the router hook at start of component instead of using it in an onClick or whatever
+
+[33mcommit 61acff60ef408c36bd526d974f8a7185e1f19233[m
+Merge: 50fb44c ec7006e
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 21:41:01 2023 +0500
+
+    resolved prbelmc
+
+[33mcommit 50fb44c82a196af13a15e4bc0fd23e76fe4e95bc[m
+Author: Mahad Ahmed <i200426@nu.edu.pk>
+Date:   Wed Oct 18 21:40:06 2023 +0500
+
+    created new branch
+
+[33mcommit ec7006e97015e315c863f5ef8e2523cc9c887ed5[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Wed Oct 18 21:36:18 2023 +0500
+
+    Added Editor Screen
+    
+     Facing routing problem. Routes are not working rest is all good
+
+[33mcommit ead1c0838132bfa73957ac840cd93df678653fa0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Tue Oct 17 18:56:00 2023 +0500
+
+    Added custom routing, added pages
+    
+    Pages with full UI:
+    - Login
+    - Projects
+    - Create Project
+
+[33mcommit bad29986c0cae50ae7616d3094d7d452ddfcf3b7[m
+Author: Muhammad Munaf <munafhassan20@gmail.com>
+Date:   Tue Oct 17 01:22:23 2023 +0500
+
+    Added basic components
+
+[33mcommit 58915bcad98a7b6305aff87766a63f407c9520ef[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Mon Oct 16 11:48:08 2023 +0500
+
+    Basic setup and UI
+
+[33mcommit 4bb0de7fd59cc161738ff835f83bda7657d3cc8f[m
+Author: Muhammad Munaf <43293019+muhammadmunaf@users.noreply.github.com>
+Date:   Fri Oct 6 16:14:50 2023 +0500
+
+    Initial commit

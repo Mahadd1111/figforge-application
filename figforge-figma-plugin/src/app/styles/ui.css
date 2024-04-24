@@ -1,0 +1,13 @@
+body {
+  font: 12px sans-serif;
+  text-align: center;
+  margin: 0px;
+  font-family: 'Inter';
+  overflow: hidden !important;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}

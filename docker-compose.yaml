@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  django_microservice:
+    build:
+      context: ./figforge-code-engine
+    ports:
+      - "8000:8000"
+    networks:
+      - figforge_network
+
+  node_server:
+    build:
+      context: ./figforge-node-server
+    ports:
+      - "3001:3001"
+    networks:
+      - figforge_network
+
+  frontend_service:
+    build:
+      context: ./figforge-web-app
+    ports:
+      - "3000:3000"
+    networks:
+      - figforge_network
+
+networks:
+  figforge_network:
+    driver: bridge
